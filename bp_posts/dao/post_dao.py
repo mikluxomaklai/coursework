@@ -33,7 +33,7 @@ class PostDAO:
     def get_all(self):
         """получаем все посты"""
 
-        posts = sel._load_posts()
+        posts = self._load_posts()
         return posts
 
     def get_by_pk(self, pk):
