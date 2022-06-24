@@ -3,7 +3,7 @@ from config import LOGGER_API_PATH, LOGGER_FORMAT
 
 
 def config(app):
-    api_logger = logging.getLogger("api.logger")
+    api_logger = logging.getLogger("api_logger")
     api_logger.setLevel(logging.DEBUG)
 
     api_logger_handler = logging.FileHandler(filename=app.config["LOGGER_API_PATH"])

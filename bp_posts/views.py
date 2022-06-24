@@ -45,7 +45,7 @@ def page_posts_by_user(user_name: str):
     posts: list[Post] = post_dao.get_by_poster(user_name)
 
     if not posts:
-        abort(404, "Такого пользователя не существует")
+        abort(404, "Такого пользователя нет")
 
     return render_template("posts_user-feed.html",
                            posts=posts,

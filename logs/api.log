@@ -1,0 +1,22 @@
+2022-06-23 18:22:49,056 - [DEBUG] - api_logger - (views.py).api_posts_all(35) - Запрошены все посты {pk}
+2022-06-23 18:22:49,060 - [DEBUG] - api_logger - (views.py).api_posts_all(35) - Запрошены все посты {pk}
+2022-06-23 18:22:49,063 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 1
+2022-06-23 18:22:49,066 - [DEBUG] - api_logger - (views.py).api_posts_single(47) - Обращение к несуществующему посту 0
+2022-06-23 18:22:49,066 - [ERROR] - api_logger - (views.py).api_error_404(57) - Ошибка404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2022-06-23 18:22:49,069 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 1
+2022-06-23 18:27:12,263 - [DEBUG] - api_logger - (views.py).api_posts_all(35) - Запрошены все посты {pk}
+2022-06-23 18:27:12,266 - [DEBUG] - api_logger - (views.py).api_posts_all(35) - Запрошены все посты {pk}
+2022-06-23 18:27:12,269 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 1
+2022-06-23 18:27:12,272 - [DEBUG] - api_logger - (views.py).api_posts_single(47) - Обращение к несуществующему посту 0
+2022-06-23 18:27:12,272 - [ERROR] - api_logger - (views.py).api_error_404(57) - Ошибка404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2022-06-23 18:27:12,275 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 1
+2022-06-23 18:27:36,651 - [DEBUG] - api_logger - (views.py).api_posts_all(35) - Запрошены все посты {pk}
+2022-06-23 18:27:36,654 - [DEBUG] - api_logger - (views.py).api_posts_all(35) - Запрошены все посты {pk}
+2022-06-23 18:27:36,658 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 1
+2022-06-23 18:27:36,661 - [DEBUG] - api_logger - (views.py).api_posts_single(47) - Обращение к несуществующему посту 0
+2022-06-23 18:27:36,661 - [ERROR] - api_logger - (views.py).api_error_404(57) - Ошибка404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2022-06-23 18:27:36,664 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 1
+2022-06-23 18:27:36,667 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 1
+2022-06-23 18:27:36,670 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 2
+2022-06-23 18:27:36,673 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 3
+2022-06-23 18:27:36,676 - [DEBUG] - api_logger - (views.py).api_posts_single(50) - Запрошен пост 4
